@@ -144,3 +144,9 @@ RCMS에서 바로 신청가능
 ![](http://i.imgur.com/ru2s9Q9.jpg)
 ![](http://i.imgur.com/5sIyy2b.jpg)
 ![](http://i.imgur.com/vu0bb6T.jpg)
+
+### 절차: 연구비 카드 과제등록 ###
+![](http://i.imgur.com/o9VDW24.jpg)
+![](http://i.imgur.com/uFGsSyb.jpg)
+![](http://i.imgur.com/EgBMo8M.jpg)
+![](http://i.imgur.com/QCG5iBn.jpg)
