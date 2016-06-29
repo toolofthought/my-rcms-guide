@@ -161,7 +161,7 @@ RCMS에서 바로 신청가능
 이체실행 담당자 별로 비밀번호 등록
 ![](http://i.imgur.com/nNwCXdq.jpg)
 
-<a name="절차: 연구비 카드사 등록"/>
+<a name="절차-연구비 카드사 등록"/>
 ### 절차-연구비 카드사 등록 ###
 과제별로 카드사는 한 개만. 카드는 여러 개 등록가능합니다.
 등록시 법인공용공인인증서가 필요합니다.
@@ -174,7 +174,7 @@ RCMS에서 바로 신청가능
 ![](http://i.imgur.com/5sIyy2b.jpg)
 ![](http://i.imgur.com/vu0bb6T.jpg)
 
-<a name="절차: 연구비 카드 과제등록"/>
+<a name="절차-연구비 카드 과제등록"/>
 ### 절차-연구비 카드 과제등록 ###
 ![](http://i.imgur.com/o9VDW24.jpg)
 ![](http://i.imgur.com/uFGsSyb.jpg)
@@ -185,3 +185,102 @@ RCMS에서 바로 신청가능
 ## 연구비 관리 ##
 ![](http://i.imgur.com/0p6B09f.jpg)
 
+<a name="연구비관리 프로세스"/>
+### 연구비관리 프로세스 ###
+![](http://i.imgur.com/MJyDKPX.jpg)
+
+
+<a name="연구비 현황조회"/>
+### 연구비 현황조회 ###
+![](http://i.imgur.com/ZCbQugL.jpg)
+
+비목별 사용내역 조회
+![](http://i.imgur.com/7vBX7n0.jpg)
+
+주의: 정부출연금 지급완료 이후 연구비 사용이 가능합니다.
+
+
+### 연구비 사용관리 ###
+연구비 등록방법
+![](http://i.imgur.com/EWM06Di.jpg)
+
+증빙우선등록방식
+![](http://i.imgur.com/ysvD40H.jpg)
+![](http://i.imgur.com/pce4n87.jpg)
+
+비목우선등록방식
+![](http://i.imgur.com/RfbVvqY.jpg)
+![](http://i.imgur.com/YyupTjE.jpg)
+
+### 사용등록 ###
+사용등록
+![](http://i.imgur.com/2OhdRJt.jpg)
+
+#### 사용등록-전자세금계산서 ####
+![](http://i.imgur.com/W7bb6Wi.jpg)
+![](http://i.imgur.com/DUE93uS.jpg)
+![](http://i.imgur.com/dZEmyje.jpg)
+![](http://i.imgur.com/B7kLhig.jpg)
+
+인증 후 저장하면 비목등록화면으로 연결됩니다.
+
+승인번호를 알 수 없는 경우-목록조회방법
+전자세금계산서 내역 조회 페이지로 이동 후 목록
+발생일자를 조회하고 전자세금계산서 접수확인목록을 확인하여 상세조회 -> 저장 후 사용등록화면으로 이동
+
+![](http://i.imgur.com/jh3JTxl.jpg)
+![](http://i.imgur.com/SPWgu1q.jpg)
+![](http://i.imgur.com/moeUtLo.jpg)
+![](http://i.imgur.com/IkzngBA.jpg)
+
+##### 사용등록-전자세금계산서-증빙서류 관리 #####
+사용용도 선택 & 증빙서류 업로드
+
+세목/세세목/품목 입력 후 증빙서류 미등록 항목 클릭 -> 추가 클릭
+
+![](http://i.imgur.com/zF4DnWF.jpg)
+![](http://i.imgur.com/oRYP2QZ.jpg)
+
+업로드 후 저장하기 클릭
+![](http://i.imgur.com/o2HVAvZ.jpg)
+
+증빙서류 등록 결과
+![](http://i.imgur.com/gmp6qSs.jpg)
+
+##### 사용등록-전자세금계산서-계좌이체 ####
+![](http://i.imgur.com/rbBAB26.jpg)
+
+##### 사용등록-전자세금계산서-기자재 구입 예시 ####
+![](http://i.imgur.com/hKSHbF1.jpg)
+
+
+#### 사용등록-카드 ####
+![](http://i.imgur.com/gqOWfed.jpg)
+
+카드결제일 전까지는 RCMS에 등록해야 합니다.
+![](http://i.imgur.com/3SWR96m.jpg)
+![](http://i.imgur.com/vzLZk1v.jpg)
+
+
+증빙선택에서 카드 선택 후 증빙등록을 클릭합니다.
+
+카드 선택
+![](http://i.imgur.com/6uGio3d.jpg)
+
+사용일자 조회
+![](http://i.imgur.com/bZyEGnF.jpg)
+
+사용내역 조회
+![](http://i.imgur.com/EkEcgqd.jpg)
+![](http://i.imgur.com/dgswqTN.jpg)
+
+전자세금계산서보다 간단하지만 혹시 부가세와 공급가액이 분리되어 있지 않으면 조정을 해야 합니다.
+![](http://i.imgur.com/Wg5Zpgt.jpg)
+
+##### 사용등록-카드-증빙서류 관리 #####
+![](http://i.imgur.com/tojKUjb.jpg)
+
+증빙 가이드라인을 확인해 연구비에서 누락되지 않게 주의합시다.
+
+##### 사용등록-카드-연구활동비 사용 예시 #####
+![](http://i.imgur.com/TWIbmlu.jpg)
