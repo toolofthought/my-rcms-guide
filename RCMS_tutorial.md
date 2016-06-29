@@ -126,3 +126,23 @@ RCMS에서 바로 신청가능
 사용자이름이 등록되어 있지 않은 경우
 ![](http://i.imgur.com/GqcfEqa.jpg)
 ![](http://i.imgur.com/kmWpoil.jpg)
+
+### 절차: 이체 비밀번호 등록 ###
+연구비 이체시 마지막 확인 작업
+
+이체실행 담당자 별로 비밀번호 등록
+![](http://i.imgur.com/nNwCXdq.jpg)
+
+### 절차: 연구비 카드사 등록 ###
+과제별로 카드사는 한 개만. 카드는 여러 개 등록가능합니다.
+등록시 법인공용공인인증서가 필요합니다.
+
+![](http://i.imgur.com/jOfcGDS.jpg)
+
+카드사 등록 절차 
+![](http://i.imgur.com/nXPoIvE.jpg)
+![](http://i.imgur.com/WTQUdnm.jpg)
+![](http://i.imgur.com/kfPoJUo.jpg)
+![](http://i.imgur.com/o1JyiVt.jpg)
+![](http://i.imgur.com/RDubGoT.jpg)
+ 
