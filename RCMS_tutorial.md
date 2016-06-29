@@ -140,9 +140,7 @@ RCMS에서 바로 신청가능
 ![](http://i.imgur.com/jOfcGDS.jpg)
 
 카드사 등록 절차 
-![](http://i.imgur.com/nXPoIvE.jpg)
-![](http://i.imgur.com/WTQUdnm.jpg)
-![](http://i.imgur.com/kfPoJUo.jpg)
-![](http://i.imgur.com/o1JyiVt.jpg)
-![](http://i.imgur.com/RDubGoT.jpg)
- 
+![](http://i.imgur.com/9mDst48.jpg)
+![](http://i.imgur.com/ru2s9Q9.jpg)
+![](http://i.imgur.com/5sIyy2b.jpg)
+![](http://i.imgur.com/vu0bb6T.jpg)
