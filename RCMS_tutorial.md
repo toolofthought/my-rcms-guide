@@ -329,3 +329,117 @@ RCMS에서 바로 신청가능
 ![](http://i.imgur.com/0aduLaN.jpg)
 
 개인공인인증서를 이용해 로그인 -> 해당 과제를 선택하고 -> 지금까지 등록된 사용요청등록을 확인 ->
+
+![](http://i.imgur.com/WFpnKho.jpg)
+![](http://i.imgur.com/pW9Ubci.jpg)
+![](http://i.imgur.com/Y6cpJCE.jpg)
+
+이제 비밀번호를 입력한 후 이체 실행을 누르면 법인범용공인인증서 입력화면이 나옵니다.
+
+혹시 연구비사용실행 버튼이 보이지 않는다면 아래의 사례에 해당하는지 확인하세요.
+![](http://i.imgur.com/73V4XOM.jpg)
+
+### 사용결과 조회 ###
+사용일자: 전자세금계산서의 경우 작성일. 카드인 경우는 승인일자. 기타의 경우는 이체일자를 말합니다.
+
+이체일자: RCMS 연구비 사용등록후 이체실행을 완료한 일자
+
+![](http://i.imgur.com/Dpi2Mme.jpg)
+![](http://i.imgur.com/ZPEmwRY.jpg)
+
+이제확인증 출력
+![](http://i.imgur.com/enpwZKS.jpg)
+
+### 현물사용내역 등록 ###
+현물사용 유의점
+![](http://i.imgur.com/z3931tF.jpg)
+
+현물사용내역 등록
+![](http://i.imgur.com/8lwGTTk.jpg)
+![](http://i.imgur.com/9Ti4244.jpg)
+![](http://i.imgur.com/yy81u7m.jpg)
+![](http://i.imgur.com/pav2RXk.jpg)
+
+
+
+## 연구비 복원 ##
+![](http://i.imgur.com/qW1Sn0f.jpg)
+
+연구비 사용/관리 프로세스
+![](http://i.imgur.com/Bv0wNME.jpg)
+
+연구비 복원 이유
+![](http://i.imgur.com/ymBRUVV.jpg)
+
+### 연구비 이체 취소 ###
+전자세금계산서 사용 실행이후 연구비 회수가 가능함
+
+![](http://i.imgur.com/49QHVcs.jpg)
+![](http://i.imgur.com/mZl3IIy.jpg)
+![](http://i.imgur.com/bx6DRqy.jpg)
+![](http://i.imgur.com/ThsVodo.jpg)
+![](http://i.imgur.com/Cy1G5Az.jpg)
+
+주의
+![](http://i.imgur.com/2lAB3IE.jpg)
+
+### 연구비 일부 취소 요청 ###
+부분취소는 한 건씩만 가능합니다.
+![](http://i.imgur.com/OwRkYjV.jpg)
+![](http://i.imgur.com/BbsAM7T.jpg)
+
+### 연구비 카드결제 취소 ###
+![](http://i.imgur.com/QEh8KkR.jpg)
+#### 연구비 카드결제 취소 - 가맹점 & RCMS 취소 ####
+![](http://i.imgur.com/AsZSl3n.jpg)
+#### 연구비 카드결제 취소 - RCMS 등록 취소 ####
+![](http://i.imgur.com/uH85HiA.jpg)
+![](http://i.imgur.com/CZNrqqE.jpg)
+#### 연구비 부가세 복원 요청 ####
+
+![](http://i.imgur.com/WUD3uCi.jpg)
+![](http://i.imgur.com/joenSFb.jpg)
+![](http://i.imgur.com/cNRNqEV.jpg)
+
+## 연구비 정산 ##
+![](http://i.imgur.com/qhl34Or.jpg)
+![](http://i.imgur.com/r7YK0TT.jpg)
+### 연구비 사용 실행 조회 ###
+### 연구비 증빙 문서관리 ###
+![](http://i.imgur.com/AgI2GFr.jpg)
+
+증빙파일 일괄조회
+![](http://i.imgur.com/d6tT0XS.jpg)
+### 증빙문서관리 활용 ###
+![](http://i.imgur.com/ZsUYUqw.jpg)
+### 카드사용내역 조회 ###
+
+### 정산서류작성 ###
+#### 정산서류등록 ####
+정산진행상태가 아닙니다
+![](http://i.imgur.com/tdsb7mm.jpg)
+
+연구비 집행마감 진행
+![](http://i.imgur.com/NONEMvp.jpg)
+
+정산서류등록
+![](http://i.imgur.com/5JO5VW7.jpg)
+![](http://i.imgur.com/GSM2YKZ.jpg)
+![](http://i.imgur.com/pfo9nGq.jpg)
+
+수익금/이월등록신청
+![](http://i.imgur.com/yavyKef.jpg)
+사용실적보고서 조회
+사용실적보고서 제출 이후에는 수정 불가
+
+정산진행현황 조회 -> 불인전내역과 검토의견 확인 가능
+
+![](http://i.imgur.com/juGS2PV.jpg)
+
+연구비상시점검
+![](http://i.imgur.com/XqlL3U1.jpg)
+![](http://i.imgur.com/8uI9iCI.jpg)
+
+상시점검에 입력된 파일은 정산시 따로 입력하지 않아도 됩니다.
+
+![](http://i.imgur.com/dnFqpLX.jpg)
